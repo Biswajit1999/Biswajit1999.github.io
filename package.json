@@ -1,0 +1,8 @@
+{
+  "name": "biswajit1999-github-pages-index",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-catalog.mjs"
+  }
+}
