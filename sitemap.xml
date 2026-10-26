@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://biswajit1999.github.io/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -68,7 +68,7 @@
   </url>
   <url>
     <loc>https://biswajit1999.github.io/blackbody-radiation-visualiser/web/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -200,7 +200,7 @@
   </url>
   <url>
     <loc>https://biswajit1999.github.io/finding-earth-2/</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -343,6 +343,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://biswajit1999.github.io/Interstellar-Link-Lab/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://biswajit1999.github.io/Jana-s-RV-Doppler-Observatory/</loc>
     <lastmod>2026-10-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -398,7 +404,7 @@
   </url>
   <url>
     <loc>https://biswajit1999.github.io/moving-observer/</loc>
-    <lastmod>2026-10-25</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
