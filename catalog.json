@@ -1,5 +1,128 @@
 [
   {
+    "name": "tess-stray-light",
+    "description": "TESS stray-light systematics study using source-linked mission data and reproducible diagnostics to examine background contamination, photometric quality and the observational limits imposed by scattered light.",
+    "category": "Exoplanets & spectroscopy",
+    "language": "Python",
+    "topics": [
+      "astronomy",
+      "astrophysics",
+      "background-subtraction",
+      "data-analysis",
+      "data-quality",
+      "instrument-systematics",
+      "observational-astronomy",
+      "photometry",
+      "reproducible-research",
+      "research-software",
+      "scientific-computing",
+      "stray-light",
+      "tess",
+      "time-series-analysis",
+      "transit-photometry"
+    ],
+    "repository_url": "https://github.com/Biswajit1999/tess-stray-light",
+    "live_url": "https://biswajit1999.github.io/tess-stray-light/",
+    "updated_at": "2026-10-15T00:07:38Z",
+    "pushed_at": "2026-11-02T08:39:58Z"
+  },
+  {
+    "name": "Biswajit1999",
+    "description": "GitHub profile hub for Biswajit Jana, connecting astrophysics, astronomical instrumentation, exoplanet research, scientific computing, reproducible data analysis and the strongest public research repositories in the portfolio.",
+    "category": "Exoplanets & spectroscopy",
+    "language": "Python",
+    "topics": [
+      "astronomical-instrumentation",
+      "astronomy",
+      "astrophysics",
+      "biswajit-jana",
+      "exoplanet-research",
+      "exoplanets",
+      "github-profile",
+      "open-science",
+      "python",
+      "reproducible-research",
+      "research-portfolio",
+      "research-software",
+      "scientific-computing"
+    ],
+    "repository_url": "https://github.com/Biswajit1999/Biswajit1999",
+    "live_url": null,
+    "updated_at": "2026-10-15T00:07:30Z",
+    "pushed_at": "2026-11-02T06:20:15Z"
+  },
+  {
+    "name": "doppler-shift-visualiser",
+    "description": "Interactive Doppler-shift visualizer connecting wavelength shifts, radial velocity and astronomical spectroscopy. Includes documented computational analysis, visualization and reproducible workflows appropriate to the project scope.",
+    "category": "Exoplanets & spectroscopy",
+    "language": "JavaScript",
+    "topics": [
+      "astronomical-spectroscopy",
+      "astronomy",
+      "astrophysics",
+      "data-analysis",
+      "doppler-shift",
+      "interactive-visualization",
+      "physics-education",
+      "precision-spectroscopy",
+      "radial-velocity",
+      "reproducible-research",
+      "research-software",
+      "scientific-computing",
+      "scientific-visualization",
+      "spectroscopy",
+      "stellar-spectroscopy"
+    ],
+    "repository_url": "https://github.com/Biswajit1999/doppler-shift-visualiser",
+    "live_url": "https://biswajit1999.github.io/doppler-shift-visualiser/web/",
+    "updated_at": "2026-10-15T00:07:58Z",
+    "pushed_at": "2026-11-01T19:48:30Z"
+  },
+  {
+    "name": "technosignature-doppler-search",
+    "description": "Reproducible technosignature Doppler-search project for narrowband signal drift, radio-astronomy detection logic, candidate diagnostics and transparent limits, built around source-aware analysis rather than black-box classification.",
+    "category": "Exoplanets & spectroscopy",
+    "language": "TypeScript",
+    "topics": [
+      "astronomy",
+      "astrophysics",
+      "data-analysis",
+      "doppler-drift",
+      "narrowband-signals",
+      "precision-spectroscopy",
+      "radial-velocity",
+      "radio-astronomy",
+      "reproducible-research",
+      "research-software",
+      "scientific-computing",
+      "seti",
+      "technosignatures"
+    ],
+    "repository_url": "https://github.com/Biswajit1999/technosignature-doppler-search",
+    "live_url": "https://biswajit1999.github.io/technosignature-doppler-search/",
+    "updated_at": "2026-10-15T00:07:24Z",
+    "pushed_at": "2026-11-01T19:48:00Z"
+  },
+  {
+    "name": "Biswajit1999.github.io",
+    "description": "Automatically refreshed discovery index for Biswajit Jana astronomy research software, live scientific projects, source repositories and project sitemaps.",
+    "category": "Other research & software",
+    "language": "HTML",
+    "topics": [
+      "astronomy",
+      "astrophysics",
+      "github-pages",
+      "open-science",
+      "portfolio",
+      "research-software",
+      "scientific-computing"
+    ],
+    "repository_url": "https://github.com/Biswajit1999/Biswajit1999.github.io",
+    "live_url": "https://biswajit1999.github.io/",
+    "updated_at": "2026-11-01T11:14:52Z",
+    "pushed_at": "2026-11-01T11:14:48Z"
+  },
+  {
     "name": "cosmic-expansion-lab",
     "description": "Interactive cosmic expansion lab with real Pantheon+ supernovae, Cepheid calibration and full-covariance Python cosmology fits",
     "category": "Cosmology & galaxies",
@@ -79,31 +202,6 @@
     "pushed_at": "2026-11-01T07:59:48Z"
   },
   {
-    "name": "Biswajit1999",
-    "description": "GitHub profile hub for Biswajit Jana, connecting astrophysics, astronomical instrumentation, exoplanet research, scientific computing, reproducible data analysis and the strongest public research repositories in the portfolio.",
-    "category": "Exoplanets & spectroscopy",
-    "language": "Python",
-    "topics": [
-      "astronomical-instrumentation",
-      "astronomy",
-      "astrophysics",
-      "biswajit-jana",
-      "exoplanet-research",
-      "exoplanets",
-      "github-profile",
-      "open-science",
-      "python",
-      "reproducible-research",
-      "research-portfolio",
-      "research-software",
-      "scientific-computing"
-    ],
-    "repository_url": "https://github.com/Biswajit1999/Biswajit1999",
-    "live_url": null,
-    "updated_at": "2026-10-15T00:07:30Z",
-    "pushed_at": "2026-11-01T06:18:55Z"
-  },
-  {
     "name": "frb-dispersion-measure-lab",
     "description": "Reproducible fast radio burst dispersion measure laboratory for simulation, scientific visualization, parameter exploration and quantitative analysis. Uses reproducible numerical experiments, parameter exploration and quantitative scientific visualization.",
     "category": "Time-domain & radio astronomy",
@@ -158,25 +256,6 @@
     "live_url": "https://biswajit1999.github.io/finding-earth-2/",
     "updated_at": "2026-10-15T00:07:16Z",
     "pushed_at": "2026-10-31T11:06:23Z"
-  },
-  {
-    "name": "Biswajit1999.github.io",
-    "description": "Automatically refreshed discovery index for Biswajit Jana astronomy research software, live scientific projects, source repositories and project sitemaps.",
-    "category": "Other research & software",
-    "language": "HTML",
-    "topics": [
-      "astronomy",
-      "astrophysics",
-      "github-pages",
-      "open-science",
-      "portfolio",
-      "research-software",
-      "scientific-computing"
-    ],
-    "repository_url": "https://github.com/Biswajit1999/Biswajit1999.github.io",
-    "live_url": "https://biswajit1999.github.io/",
-    "updated_at": "2026-10-31T10:22:50Z",
-    "pushed_at": "2026-10-31T10:22:47Z"
   },
   {
     "name": "galaxy-clustering-correlation-lab",
@@ -344,33 +423,6 @@
     "live_url": "https://biswajit1999.github.io/jwst-shutter-light/",
     "updated_at": "2026-10-15T00:07:47Z",
     "pushed_at": "2026-10-30T08:33:25Z"
-  },
-  {
-    "name": "tess-stray-light",
-    "description": "TESS stray-light systematics study using source-linked mission data and reproducible diagnostics to examine background contamination, photometric quality and the observational limits imposed by scattered light.",
-    "category": "Exoplanets & spectroscopy",
-    "language": "Python",
-    "topics": [
-      "astronomy",
-      "astrophysics",
-      "background-subtraction",
-      "data-analysis",
-      "data-quality",
-      "instrument-systematics",
-      "observational-astronomy",
-      "photometry",
-      "reproducible-research",
-      "research-software",
-      "scientific-computing",
-      "stray-light",
-      "tess",
-      "time-series-analysis",
-      "transit-photometry"
-    ],
-    "repository_url": "https://github.com/Biswajit1999/tess-stray-light",
-    "live_url": "https://biswajit1999.github.io/tess-stray-light/",
-    "updated_at": "2026-10-15T00:07:38Z",
-    "pushed_at": "2026-10-29T19:48:27Z"
   },
   {
     "name": "rv-activity-disentangler",
@@ -1015,33 +1067,6 @@
     "pushed_at": "2026-10-22T07:42:06Z"
   },
   {
-    "name": "doppler-shift-visualiser",
-    "description": "Interactive Doppler-shift visualizer connecting wavelength shifts, radial velocity and astronomical spectroscopy. Includes documented computational analysis, visualization and reproducible workflows appropriate to the project scope.",
-    "category": "Exoplanets & spectroscopy",
-    "language": "JavaScript",
-    "topics": [
-      "astronomical-spectroscopy",
-      "astronomy",
-      "astrophysics",
-      "data-analysis",
-      "doppler-shift",
-      "interactive-visualization",
-      "physics-education",
-      "precision-spectroscopy",
-      "radial-velocity",
-      "reproducible-research",
-      "research-software",
-      "scientific-computing",
-      "scientific-visualization",
-      "spectroscopy",
-      "stellar-spectroscopy"
-    ],
-    "repository_url": "https://github.com/Biswajit1999/doppler-shift-visualiser",
-    "live_url": "https://biswajit1999.github.io/doppler-shift-visualiser/web/",
-    "updated_at": "2026-10-15T00:07:58Z",
-    "pushed_at": "2026-10-22T07:40:52Z"
-  },
-  {
     "name": "Biswajit_Jana.github.io",
     "description": "Research portfolio of Biswajit Jana covering astrophysics, astronomical instrumentation, exoplanets, precision radial-velocity spectroscopy, scientific computing, open research projects and interactive scientific tools.",
     "category": "Exoplanets & spectroscopy",
@@ -1129,31 +1154,6 @@
     "live_url": "https://biswajit1999.github.io/Master-Thesis-2024/",
     "updated_at": "2026-10-21T07:37:57Z",
     "pushed_at": "2026-10-21T07:37:54Z"
-  },
-  {
-    "name": "technosignature-doppler-search",
-    "description": "Reproducible technosignature Doppler-search project for narrowband signal drift, radio-astronomy detection logic, candidate diagnostics and transparent limits, built around source-aware analysis rather than black-box classification.",
-    "category": "Exoplanets & spectroscopy",
-    "language": "TypeScript",
-    "topics": [
-      "astronomy",
-      "astrophysics",
-      "data-analysis",
-      "doppler-drift",
-      "narrowband-signals",
-      "precision-spectroscopy",
-      "radial-velocity",
-      "radio-astronomy",
-      "reproducible-research",
-      "research-software",
-      "scientific-computing",
-      "seti",
-      "technosignatures"
-    ],
-    "repository_url": "https://github.com/Biswajit1999/technosignature-doppler-search",
-    "live_url": "https://biswajit1999.github.io/technosignature-doppler-search/",
-    "updated_at": "2026-10-15T00:07:24Z",
-    "pushed_at": "2026-10-20T07:31:19Z"
   },
   {
     "name": "dark-matter-lensing-auditor",
