@@ -8,7 +8,126 @@
     "repository_url": "https://github.com/Biswajit1999/daily-astro-notebooks",
     "live_url": "https://biswajit1999.github.io/daily-astro-notebooks/",
     "updated_at": "2026-11-16T00:44:47Z",
-    "pushed_at": "2026-11-23T10:54:08Z"
+    "pushed_at": "2026-11-24T10:21:44Z"
+  },
+  {
+    "name": "Biswajit1999",
+    "description": "GitHub profile hub for Biswajit Jana, connecting astrophysics, astronomical instrumentation, exoplanet research, scientific computing, reproducible data analysis and the strongest public research repositories in the portfolio.",
+    "category": "Exoplanets & spectroscopy",
+    "language": "Python",
+    "topics": [
+      "astronomical-instrumentation",
+      "astronomy",
+      "astrophysics",
+      "biswajit-jana",
+      "exoplanet-research",
+      "exoplanets",
+      "github-profile",
+      "open-science",
+      "python",
+      "reproducible-research",
+      "research-portfolio",
+      "research-software",
+      "scientific-computing"
+    ],
+    "repository_url": "https://github.com/Biswajit1999/Biswajit1999",
+    "live_url": null,
+    "updated_at": "2026-10-15T00:07:30Z",
+    "pushed_at": "2026-11-24T10:01:52Z"
+  },
+  {
+    "name": "JWST-Cosmic-Anomaly-Lab",
+    "description": "Provenance-first multi-survey JWST spectroscopy, source evidence, physical baselines and calibrated anomaly-search research.",
+    "category": "Exoplanets & spectroscopy",
+    "language": "Python",
+    "topics": [],
+    "repository_url": "https://github.com/Biswajit1999/JWST-Cosmic-Anomaly-Lab",
+    "live_url": null,
+    "updated_at": "2026-11-12T08:37:05Z",
+    "pushed_at": "2026-11-23T22:33:14Z"
+  },
+  {
+    "name": "cosmic-unknowns",
+    "description": "Exploratory research on wormholes, quantum spacetime, and cosmic origins: literature, reproducible calculations, and explicit evidence limits.",
+    "category": "Other research & software",
+    "language": "Python",
+    "topics": [],
+    "repository_url": "https://github.com/Biswajit1999/cosmic-unknowns",
+    "live_url": null,
+    "updated_at": "2026-11-11T08:29:47Z",
+    "pushed_at": "2026-11-23T22:16:23Z"
+  },
+  {
+    "name": "tess-stray-light",
+    "description": "TESS stray-light systematics study using source-linked mission data and reproducible diagnostics to examine background contamination, photometric quality and the observational limits imposed by scattered light.",
+    "category": "Exoplanets & spectroscopy",
+    "language": "Python",
+    "topics": [
+      "astronomy",
+      "astrophysics",
+      "background-subtraction",
+      "data-analysis",
+      "data-quality",
+      "instrument-systematics",
+      "observational-astronomy",
+      "photometry",
+      "reproducible-research",
+      "research-software",
+      "scientific-computing",
+      "stray-light",
+      "tess",
+      "time-series-analysis",
+      "transit-photometry"
+    ],
+    "repository_url": "https://github.com/Biswajit1999/tess-stray-light",
+    "live_url": "https://biswajit1999.github.io/tess-stray-light/",
+    "updated_at": "2026-10-15T00:07:38Z",
+    "pushed_at": "2026-11-23T19:19:44Z"
+  },
+  {
+    "name": "gamma-ray-burst-timing",
+    "description": "Gamma-ray-burst timing analysis for transient light curves, durations, temporal structure and high-energy astrophysics. Includes documented computational analysis, visualization and reproducible workflows appropriate to the project scope.",
+    "category": "Exoplanets & spectroscopy",
+    "language": "Python",
+    "topics": [
+      "astronomy",
+      "astrophysics",
+      "data-analysis",
+      "gamma-ray-bursts",
+      "grb",
+      "high-energy-astrophysics",
+      "light-curves",
+      "reproducible-research",
+      "research-software",
+      "scientific-computing",
+      "signal-processing",
+      "time-series-analysis",
+      "transients",
+      "transit-photometry"
+    ],
+    "repository_url": "https://github.com/Biswajit1999/gamma-ray-burst-timing",
+    "live_url": "https://biswajit1999.github.io/gamma-ray-burst-timing/",
+    "updated_at": "2026-10-15T00:07:52Z",
+    "pushed_at": "2026-11-23T19:19:42Z"
+  },
+  {
+    "name": "Biswajit1999.github.io",
+    "description": "Automatically refreshed discovery index for Biswajit Jana astronomy research software, live scientific projects, source repositories and project sitemaps.",
+    "category": "Other research & software",
+    "language": "HTML",
+    "topics": [
+      "astronomy",
+      "astrophysics",
+      "github-pages",
+      "open-science",
+      "portfolio",
+      "research-software",
+      "scientific-computing"
+    ],
+    "repository_url": "https://github.com/Biswajit1999/Biswajit1999.github.io",
+    "live_url": "https://biswajit1999.github.io/",
+    "updated_at": "2026-11-12T13:40:28Z",
+    "pushed_at": "2026-11-23T14:34:15Z"
   },
   {
     "name": "exoplanet-atmosphere-retrieval-lab",
@@ -70,53 +189,6 @@
     "live_url": "https://biswajit1999.github.io/exoplanet-atmosphere-signal/",
     "updated_at": "2026-10-24T03:06:31Z",
     "pushed_at": "2026-11-23T08:34:46Z"
-  },
-  {
-    "name": "Biswajit1999",
-    "description": "GitHub profile hub for Biswajit Jana, connecting astrophysics, astronomical instrumentation, exoplanet research, scientific computing, reproducible data analysis and the strongest public research repositories in the portfolio.",
-    "category": "Exoplanets & spectroscopy",
-    "language": "Python",
-    "topics": [
-      "astronomical-instrumentation",
-      "astronomy",
-      "astrophysics",
-      "biswajit-jana",
-      "exoplanet-research",
-      "exoplanets",
-      "github-profile",
-      "open-science",
-      "python",
-      "reproducible-research",
-      "research-portfolio",
-      "research-software",
-      "scientific-computing"
-    ],
-    "repository_url": "https://github.com/Biswajit1999/Biswajit1999",
-    "live_url": null,
-    "updated_at": "2026-10-15T00:07:30Z",
-    "pushed_at": "2026-11-23T07:50:10Z"
-  },
-  {
-    "name": "cosmic-unknowns",
-    "description": "Exploratory research on wormholes, quantum spacetime, and cosmic origins: literature, reproducible calculations, and explicit evidence limits.",
-    "category": "Other research & software",
-    "language": "Python",
-    "topics": [],
-    "repository_url": "https://github.com/Biswajit1999/cosmic-unknowns",
-    "live_url": null,
-    "updated_at": "2026-11-11T08:29:47Z",
-    "pushed_at": "2026-11-23T07:41:58Z"
-  },
-  {
-    "name": "JWST-Cosmic-Anomaly-Lab",
-    "description": "Provenance-first multi-survey JWST spectroscopy, source evidence, physical baselines and calibrated anomaly-search research.",
-    "category": "Exoplanets & spectroscopy",
-    "language": "Python",
-    "topics": [],
-    "repository_url": "https://github.com/Biswajit1999/JWST-Cosmic-Anomaly-Lab",
-    "live_url": null,
-    "updated_at": "2026-11-12T08:37:05Z",
-    "pushed_at": "2026-11-23T07:37:25Z"
   },
   {
     "name": "frb-dispersion-measure-lab",
@@ -200,25 +272,6 @@
     "live_url": "https://biswajit1999.github.io/finding-earth-2/",
     "updated_at": "2026-11-06T08:31:46Z",
     "pushed_at": "2026-11-22T12:54:57Z"
-  },
-  {
-    "name": "Biswajit1999.github.io",
-    "description": "Automatically refreshed discovery index for Biswajit Jana astronomy research software, live scientific projects, source repositories and project sitemaps.",
-    "category": "Other research & software",
-    "language": "HTML",
-    "topics": [
-      "astronomy",
-      "astrophysics",
-      "github-pages",
-      "open-science",
-      "portfolio",
-      "research-software",
-      "scientific-computing"
-    ],
-    "repository_url": "https://github.com/Biswajit1999/Biswajit1999.github.io",
-    "live_url": "https://biswajit1999.github.io/",
-    "updated_at": "2026-11-12T13:40:28Z",
-    "pushed_at": "2026-11-22T12:32:57Z"
   },
   {
     "name": "cmb-acoustic-peak-lab",
@@ -498,32 +551,6 @@
     "live_url": "https://biswajit1999.github.io/Interstellar-Link-Lab/",
     "updated_at": "2026-10-26T08:33:09Z",
     "pushed_at": "2026-11-19T19:14:42Z"
-  },
-  {
-    "name": "gamma-ray-burst-timing",
-    "description": "Gamma-ray-burst timing analysis for transient light curves, durations, temporal structure and high-energy astrophysics. Includes documented computational analysis, visualization and reproducible workflows appropriate to the project scope.",
-    "category": "Exoplanets & spectroscopy",
-    "language": "Python",
-    "topics": [
-      "astronomy",
-      "astrophysics",
-      "data-analysis",
-      "gamma-ray-bursts",
-      "grb",
-      "high-energy-astrophysics",
-      "light-curves",
-      "reproducible-research",
-      "research-software",
-      "scientific-computing",
-      "signal-processing",
-      "time-series-analysis",
-      "transients",
-      "transit-photometry"
-    ],
-    "repository_url": "https://github.com/Biswajit1999/gamma-ray-burst-timing",
-    "live_url": "https://biswajit1999.github.io/gamma-ray-burst-timing/",
-    "updated_at": "2026-10-15T00:07:52Z",
-    "pushed_at": "2026-11-19T19:14:40Z"
   },
   {
     "name": "AstroBis",
@@ -1964,33 +1991,6 @@
     "live_url": "https://biswajit1999.github.io/adjacent-atlas/",
     "updated_at": "2026-10-17T00:58:39Z",
     "pushed_at": "2026-11-19T16:31:38Z"
-  },
-  {
-    "name": "tess-stray-light",
-    "description": "TESS stray-light systematics study using source-linked mission data and reproducible diagnostics to examine background contamination, photometric quality and the observational limits imposed by scattered light.",
-    "category": "Exoplanets & spectroscopy",
-    "language": "Python",
-    "topics": [
-      "astronomy",
-      "astrophysics",
-      "background-subtraction",
-      "data-analysis",
-      "data-quality",
-      "instrument-systematics",
-      "observational-astronomy",
-      "photometry",
-      "reproducible-research",
-      "research-software",
-      "scientific-computing",
-      "stray-light",
-      "tess",
-      "time-series-analysis",
-      "transit-photometry"
-    ],
-    "repository_url": "https://github.com/Biswajit1999/tess-stray-light",
-    "live_url": "https://biswajit1999.github.io/tess-stray-light/",
-    "updated_at": "2026-10-15T00:07:38Z",
-    "pushed_at": "2026-11-19T16:30:56Z"
   },
   {
     "name": "gaia-star-pairs",
