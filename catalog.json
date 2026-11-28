@@ -1,16 +1,5 @@
 [
   {
-    "name": "JWST-Cosmic-Anomaly-Lab",
-    "description": "Provenance-first multi-survey JWST spectroscopy, source evidence, physical baselines and calibrated anomaly-search research.",
-    "category": "Exoplanets & spectroscopy",
-    "language": "Python",
-    "topics": [],
-    "repository_url": "https://github.com/Biswajit1999/JWST-Cosmic-Anomaly-Lab",
-    "live_url": null,
-    "updated_at": "2026-11-12T08:37:05Z",
-    "pushed_at": "2026-11-27T09:21:00Z"
-  },
-  {
     "name": "Biswajit1999",
     "description": "GitHub profile hub for Biswajit Jana, connecting astrophysics, astronomical instrumentation, exoplanet research, scientific computing, reproducible data analysis and the strongest public research repositories in the portfolio.",
     "category": "Exoplanets & spectroscopy",
@@ -33,7 +22,18 @@
     "repository_url": "https://github.com/Biswajit1999/Biswajit1999",
     "live_url": null,
     "updated_at": "2026-10-15T00:07:30Z",
-    "pushed_at": "2026-11-27T08:45:08Z"
+    "pushed_at": "2026-11-28T07:58:47Z"
+  },
+  {
+    "name": "JWST-Cosmic-Anomaly-Lab",
+    "description": "Provenance-first multi-survey JWST spectroscopy, source evidence, physical baselines and calibrated anomaly-search research.",
+    "category": "Exoplanets & spectroscopy",
+    "language": "Python",
+    "topics": [],
+    "repository_url": "https://github.com/Biswajit1999/JWST-Cosmic-Anomaly-Lab",
+    "live_url": null,
+    "updated_at": "2026-11-12T08:37:05Z",
+    "pushed_at": "2026-11-27T19:35:17Z"
   },
   {
     "name": "Biswajit1999.github.io",
@@ -52,7 +52,7 @@
     "repository_url": "https://github.com/Biswajit1999/Biswajit1999.github.io",
     "live_url": "https://biswajit1999.github.io/",
     "updated_at": "2026-11-12T13:40:28Z",
-    "pushed_at": "2026-11-26T13:51:47Z"
+    "pushed_at": "2026-11-27T13:49:25Z"
   },
   {
     "name": "cosmic-unknowns",
